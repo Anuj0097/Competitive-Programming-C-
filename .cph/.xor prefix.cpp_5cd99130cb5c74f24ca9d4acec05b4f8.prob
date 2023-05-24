@@ -1,0 +1,1 @@
+{"name":"Local: xor prefix","url":"c:\\Users\\hp\\Desktop\\CP\\xor prefix.cpp","tests":[{"id":1660075511387,"input":"4, 1, 5, 9, 7","output":"Missing element is 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\hp\\Desktop\\CP\\xor prefix.cpp","group":"local","local":true}

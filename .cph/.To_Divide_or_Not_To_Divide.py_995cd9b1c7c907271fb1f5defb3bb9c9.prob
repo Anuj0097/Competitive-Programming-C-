@@ -1,0 +1,1 @@
+{"name":"Local: To_Divide_or_Not_To_Divide","url":"c:\\Users\\hp\\Desktop\\CP\\To_Divide_or_Not_To_Divide.py","tests":[{"id":1658515167489,"input":"3\n5 2 11\n4 3 24\n7 7 100","output":"15\n28\n-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\hp\\Desktop\\CP\\To_Divide_or_Not_To_Divide.py","group":"local","local":true}

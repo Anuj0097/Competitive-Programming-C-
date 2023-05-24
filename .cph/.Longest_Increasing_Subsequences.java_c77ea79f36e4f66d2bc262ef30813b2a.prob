@@ -1,0 +1,1 @@
+{"name":"Local: Longest_Increasing_Subsequences","url":"c:\\Users\\hp\\Desktop\\CP\\Longest_Increasing_Subsequences.java","tests":[{"id":1653247277891,"input":"3\n2\n1 2\n4\n1 2 3 4\n2\n7 7","output":"0\n1\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\hp\\Desktop\\CP\\Longest_Increasing_Subsequences.java","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: fre","url":"c:\\Users\\hp\\Desktop\\CP\\fre.cpp","tests":[{"id":1645452748180,"input":"1 1\n","output":"YES"},{"id":1645452885857,"input":"1 7","output":"NO"},{"id":1645452900104,"input":"7 1","output":"YES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\hp\\Desktop\\CP\\fre.cpp","group":"local","local":true}

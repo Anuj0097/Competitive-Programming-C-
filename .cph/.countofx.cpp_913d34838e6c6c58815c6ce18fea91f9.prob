@@ -1,0 +1,1 @@
+{"name":"Local: countofx","url":"c:\\Users\\hp\\Desktop\\CP\\countofx.cpp","tests":[{"id":1646200415873,"input":"6\n3 5 7 7 7 8\n5\n3\n7\n5\n8\n9","output":"1\n3\n1\n1\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\hp\\Desktop\\CP\\countofx.cpp","group":"local","local":true}

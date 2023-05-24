@@ -1,0 +1,1 @@
+{"name":"Local: csum","url":"c:\\Users\\hp\\Desktop\\CP\\csum.cpp","tests":[{"id":1638302397554,"input":"3\n1 4 1\n3\n1 1\n1 2\n0 2","output":"4\n5\n6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\hp\\Desktop\\CP\\csum.cpp","group":"local","local":true}
